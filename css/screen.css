@@ -23,3 +23,84 @@ img {
   max-width: 100%;
   vertical-align: top;
 }
+h1 {font-family: "Times New Roman",serif;
+    font-size: normal;
+    line-height: 40px;margin: 0 0 48px;
+    font-weight: normal;
+
+}
+
+h2 {
+font-size: 23px;
+line-height: 24px;
+margin: 0 0 24 px;
+}
+
+h3 {
+
+}
+
+h4,
+h5,
+h6 {
+font-size: 16px;
+line-height: 24px;
+margin: 0 0 24px;
+}
+
+p,
+ol,
+ul,
+dl,
+table,
+address,
+figure {
+margin: 0 0 24px;
+}
+
+ul,
+ol {
+  padding-left: 24px;
+}
+blockquote {
+font-size: inherit;
+line-height: inherit;
+}
+
+li ul,
+li ol{
+ margin-bottom: 0;
+}
+
+blockquote {
+
+}
+
+figcaption {
+font-size: 12px;
+line-height: 16px;
+padding-top: 8px;
+color: Grey;
+}
+
+hr {
+border: 0;
+height: 1px;
+background: lightgrey ;
+margin: 0 0 24px;
+}
+
+a {
+
+}
+
+a:hover,
+a:focus {
+
+}
+
+a:visited,
+a:active {
+    
+}
+
